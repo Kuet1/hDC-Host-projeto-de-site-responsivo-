@@ -200,11 +200,15 @@ nav{
     font-weight: bold;
     color: #fff;
     background-color: #202b34;
+    border: none;
+    border-radius: 10px 10px 0px 0px;
     padding: 50px 0;
 }
 
 .plan .plan-btn {
     background-color: #2cc762;
+    border: none;
+    border-radius: 0px 0px 10px 10px;
     color: #fff;
     font-size: 24px;
     height: 75px;
